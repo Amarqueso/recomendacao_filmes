@@ -26,3 +26,4 @@ Os resultados da similaridade cosseno são armazenados em um DataFrame onde tant
 Exemplo de Recomendação:
 
 Um exemplo é fornecido onde o sistema gera uma lista de filmes semelhantes a "X-Men: First Class (2011)" com base nas avaliações dos usuários. As 10 principais recomendações são exibidas.
+![recomendacoes_filmes](https://github.com/user-attachments/assets/b64ed7e6-207f-454f-a45f-e66911ec059f)
