@@ -6,6 +6,7 @@ Visão Geral do Projeto: O objetivo principal deste projeto é recomendar filmes
 # Arquivos Utilizados
 
 movies.csv: Contém detalhes sobre os filmes, incluindo seus títulos e IDs únicos.
+
 ratings.csv: Contém as avaliações dos usuários para diferentes filmes, incluindo IDs de usuários, IDs de filmes e as notas atribuídas.
 
 # Etapas Implementadas
